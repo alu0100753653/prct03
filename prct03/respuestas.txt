@@ -1,1 +1,6 @@
+2.-¿Que es una reorganizacion(rebase)?
+
 3.-¿Cual es la ventaja de reorganizar(rebase)?
+
+
+
